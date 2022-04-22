@@ -16,7 +16,7 @@ namespace LabAss3
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            //Application.Run(new Form1());
+            //Application.Run(new frmCustomerEnter());
             Application.Run(new MDIParent1());
         }
     }
