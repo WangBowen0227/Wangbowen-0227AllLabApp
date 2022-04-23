@@ -196,7 +196,7 @@
             this.dtgCustomer.Name = "dtgCustomer";
             this.dtgCustomer.RowHeadersWidth = 51;
             this.dtgCustomer.RowTemplate.Height = 27;
-            this.dtgCustomer.Size = new System.Drawing.Size(416, 235);
+            this.dtgCustomer.Size = new System.Drawing.Size(735, 323);
             this.dtgCustomer.TabIndex = 14;
             this.dtgCustomer.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgCustomer_CellClick);
             // 
@@ -243,7 +243,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(881, 483);
+            this.ClientSize = new System.Drawing.Size(1256, 526);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.lblID);
             this.Controls.Add(this.button2);
